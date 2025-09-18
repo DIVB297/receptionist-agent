@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import BotManagement from '@/components/BotManagement';
 import CallLogs from '@/components/CallLogs';
-import { Bot, MessageSquare, Settings, ExternalLink } from 'lucide-react';
+import { Bot, Phone, MessageSquare, Settings, ExternalLink } from 'lucide-react';
 
 export default function Home() {
   const [activeTab, setActiveTab] = useState<'bots' | 'logs' | 'setup'>('bots');
@@ -123,17 +123,14 @@ function SetupGuide() {
           <div className="border-l-4 border-orange-500 pl-4">
             <h3 className="text-lg font-medium text-gray-900 mb-2">4. Bot Configuration in OpenMic Dashboard</h3>
             <p className="text-gray-600 mb-3">
-              Since OpenMic doesn't provide public API endpoints for bot management, you'll need to manually create and configure bots in the OpenMic dashboard. Use the bot details from this UI as a reference:
+              After creating a bot through this UI, configure it in the OpenMic dashboard:
             </p>
-            <ol className="list-decimal list-inside text-gray-600 space-y-1">
-              <li>Go to the OpenMic dashboard and create a new agent/bot</li>
-              <li>Copy the name, description, and prompt from the bots you created in this UI</li>
+            <ul className="list-disc list-inside text-gray-600 space-y-1">
               <li>Set the pre-call and post-call webhook URLs</li>
               <li>Add the employee-lookup function as a custom function</li>
               <li>Configure function parameters: employee_name (string)</li>
-              <li>Copy the bot UID from OpenMic dashboard for your records</li>
-              <li>Test the bot using the &quot;Test Call&quot; feature</li>
-            </ol>
+              <li>Test the bot using the "Test Call" feature</li>
+            </ul>
           </div>
 
           <div className="border-l-4 border-red-500 pl-4">
@@ -142,11 +139,11 @@ function SetupGuide() {
               Test the complete flow:
             </p>
             <ol className="list-decimal list-inside text-gray-600 space-y-1">
-              <li>Create a bot using the &quot;Bot Management&quot; tab</li>
+              <li>Create a bot using the "Bot Management" tab</li>
               <li>Configure webhooks in OpenMic dashboard</li>
-              <li>Use &quot;Test Call&quot; in OpenMic dashboard</li>
-              <li>Ask for an employee (try &quot;Sarah Johnson&quot; or &quot;Lisa Chen&quot;)</li>
-              <li>Check the &quot;Call Logs&quot; tab for recorded conversations</li>
+              <li>Use "Test Call" in OpenMic dashboard</li>
+              <li>Ask for an employee (try "Sarah Johnson" or "Lisa Chen")</li>
+              <li>Check the "Call Logs" tab for recorded conversations</li>
             </ol>
           </div>
         </div>

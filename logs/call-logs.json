@@ -1,0 +1,350 @@
+[
+  {
+    "id": "call_1758213390473",
+    "bot_uid": "unknown",
+    "bot_name": "Receptionist Bot",
+    "caller_number": "unknown",
+    "call_duration": 0,
+    "transcript": [
+      [
+        "user",
+        "Introduce yourself and ask user how can you help today"
+      ],
+      [
+        "assistant",
+        "Hello, thank you for calling TechCorp headquarters. This is the TechCorp Receptionist. How can I assist you today?"
+      ],
+      [
+        "user",
+        "Okay. So I am Sarah Johnson."
+      ],
+      [
+        "assistant",
+        "Thank you, Ms. Johnson. How may I assist you today? Are you here to visit or speak with a specific TechCorp employee? If so, please provide their name, and I’ll be happy to help you locate them or connect your call."
+      ],
+      [
+        "user",
+        "Thank you so much. I don't know."
+      ],
+      [
+        "user",
+        "I don't wanna help you."
+      ],
+      [
+        "assistant",
+        "No problem at all, Ms. Johnson. If you need any assistance or information while you’re here, please feel free to let me know. Thank you for calling TechCorp, and have a great day!"
+      ],
+      [
+        "user",
+        "Check if the user is still there."
+      ],
+      [
+        "assistant",
+        "Ms. Johnson, are you still there? If you need any"
+      ],
+      [
+        "user",
+        "Hello?"
+      ],
+      [
+        "assistant",
+        "Hello, Ms."
+      ],
+      [
+        "user",
+        "I don't know."
+      ],
+      [
+        "assistant",
+        "That’s perfectly fine, Ms. Johnson. If you think of anything you need or have any questions, please let me know. I’m here to help"
+      ]
+    ],
+    "status": "completed",
+    "start_time": "2025-09-18T16:36:30.473Z",
+    "end_time": "2025-09-18T16:36:30.473Z",
+    "timestamp": "2025-09-18T16:36:30.473Z",
+    "metadata": {
+      "call_quality": "good",
+      "user_satisfaction": "satisfied",
+      "purpose_fulfilled": true,
+      "follow_up_required": false
+    }
+  },
+  {
+    "id": "call_1758213980649",
+    "bot_uid": "unknown",
+    "bot_name": "Receptionist Bot",
+    "caller_number": "unknown",
+    "call_duration": 0,
+    "transcript": [
+      [
+        "assistant",
+        "Hey, How are you doing today?"
+      ],
+      [
+        "user",
+        "Hey. I am going doing good. Thank you."
+      ],
+      [
+        "assistant",
+        "Glad to hear that! May I have your name, please?"
+      ],
+      [
+        "user",
+        "Sure. Sure. So my name is Sarah Johnson."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Sorry, I couldn't process that request. Could you please wait a moment while I check your details again?"
+      ],
+      [
+        "user",
+        "I checked actually."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "user",
+        "So my name is Sarah Johnson. Can you check once again?"
+      ],
+      [
+        "assistant",
+        "Sorry about that, Sarah. I couldn't process your request earlier. Let me check your details now. One moment, please."
+      ],
+      [
+        "user",
+        "Check if the user is still there."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Sorry, I couldn't process that request. If you need me to look up someone, please provide their name, and I'll be happy to assist!"
+      ],
+      [
+        "user",
+        "Okay. Sure. So my name is Lisa Chen."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Sorry, I couldn't process that request. It seems there is an issue with my system when trying to look up employee names. If you need assistance, please let me know how I can help you, or if you need to reach someone specific at TechCorp."
+      ],
+      [
+        "user",
+        "Can you please tell me in your system what are the names present"
+      ],
+      [
+        "user",
+        "for that employers?"
+      ],
+      [
+        "assistant",
+        "Sorry, I don't have that information. I can only look up specific names when you mention them. If you have a name you'd like me to check, please let me know, and I'll assist you right away."
+      ],
+      [
+        "user",
+        "I I am checking my name, but I'll so we can conclude. I will call you again."
+      ],
+      [
+        "assistant",
+        "Of course, thank you for letting me know. Feel free to reach out anytime, and I’ll be happy to assist you. Have a great day!"
+      ],
+      [
+        "user",
+        "Check if the user is still there."
+      ],
+      [
+        "assistant",
+        "I'm still here if you need any assistance. Please let me know how I can help you!"
+      ]
+    ],
+    "status": "completed",
+    "start_time": "2025-09-18T16:46:20.649Z",
+    "end_time": "2025-09-18T16:46:20.649Z",
+    "timestamp": "2025-09-18T16:46:20.649Z",
+    "metadata": {
+      "call_quality": "good",
+      "user_satisfaction": "satisfied",
+      "purpose_fulfilled": true,
+      "follow_up_required": false
+    }
+  },
+  {
+    "id": "call_1758214745091",
+    "bot_uid": "unknown",
+    "bot_name": "Receptionist Bot",
+    "caller_number": "unknown",
+    "call_duration": 0,
+    "transcript": [
+      [
+        "assistant",
+        "Hey, How are you doing today?"
+      ],
+      [
+        "user",
+        "I'm good. Thank you."
+      ],
+      [
+        "assistant",
+        "You're welcome! How can I assist you today?"
+      ],
+      [
+        "user",
+        "So yes, I want the your details first."
+      ],
+      [
+        "user",
+        "What are you expecting from me?"
+      ],
+      [
+        "assistant",
+        "I'm here to assist you with anything you need at TechCorp headquarters—whether that's finding an employee, providing directions, connecting you with a department, or answering questions about our facility.\n\nIf you’d like, you can let me know your name, or let me know who you’re here to see or what you need help with. How can I help you today?"
+      ],
+      [
+        "user",
+        "So my name is Sarah Johnson."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "user",
+        "Can you tell me about my details?"
+      ],
+      [
+        "assistant",
+        "Welcome back, Sarah Johnson! I see you're from the Sales department. Your office is located on Floor 2, Room 201, and your extension is 2201. Your current availability status is set to available.\n\nIs there anything specific you’d like help with today?"
+      ],
+      [
+        "user",
+        "Can you tell me more details"
+      ],
+      [
+        "assistant",
+        "Sarah, here’s what I have for you:\n\n- Name: Sarah Johnson\n- Department: Sales\n- Office Location: Floor 2, Room 201\n- Extension: 2201\n- Current Status: Available\n\nIf you need information beyond this—like your schedule, recent messages, or anything else—please let me know what you’re looking for. I only have access to your department, location, extension, and availability status.\n\nIs there anything else"
+      ],
+      [
+        "user",
+        "Ten yes. So can you tell me my recent messages?"
+      ],
+      [
+        "assistant",
+        "Sorry, I don't have that information. I can only provide your department, location, extension, and availability status.\n\nIf you need help with something else, please let me know!"
+      ],
+      [
+        "user",
+        "Okay. Fine. Thank you so much."
+      ],
+      [
+        "assistant",
+        "You're welcome, Sarah! If you need anything else, just let me know. Have a great day!"
+      ]
+    ],
+    "status": "completed",
+    "start_time": "2025-09-18T16:59:05.091Z",
+    "end_time": "2025-09-18T16:59:05.091Z",
+    "timestamp": "2025-09-18T16:59:05.091Z",
+    "metadata": {
+      "call_quality": "good",
+      "user_satisfaction": "satisfied",
+      "purpose_fulfilled": true,
+      "follow_up_required": false
+    }
+  },
+  {
+    "id": "call_1758217556476",
+    "bot_uid": "unknown",
+    "bot_name": "Receptionist Bot",
+    "caller_number": "unknown",
+    "call_duration": 0,
+    "transcript": [
+      [
+        "assistant",
+        "Hey, How are you doing today? Can i know your name?"
+      ],
+      [
+        "user",
+        "Sure. Sure. I'm doing good. So my name is Sarah Johnson."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Welcome back, Sarah Johnson! I see you're from the Sales department. How can I assist you today?"
+      ],
+      [
+        "user",
+        "So can you tell me about my location?"
+      ],
+      [
+        "assistant",
+        "Sarah, your location is Floor 2, Room 201. If you need directions or help getting there, just let me know!"
+      ],
+      [
+        "user",
+        "Okay. Can you tell me other details also?"
+      ],
+      [
+        "assistant",
+        "Of course, Sarah. Here are your details:\n\n- Department: Sales\n- Location: Floor 2, Room 201\n- Extension: 2201\n- Availability: You are currently marked as available\n\nIf you need help with anything else or want to update your status, just let me know!"
+      ],
+      [
+        "user",
+        "Okay. Thanks. Thanks. I I've got all the details. You."
+      ],
+      [
+        "assistant",
+        "You're welcome, Sarah! If you need anything else, just let me know. Have a great day!"
+      ]
+    ],
+    "status": "completed",
+    "start_time": "2025-09-18T17:45:56.476Z",
+    "end_time": "2025-09-18T17:45:56.476Z",
+    "timestamp": "2025-09-18T17:45:56.476Z",
+    "metadata": {
+      "call_quality": "good",
+      "user_satisfaction": "satisfied",
+      "purpose_fulfilled": true,
+      "follow_up_required": false
+    }
+  }
+]
