@@ -4,9 +4,15 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
+    "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "build:production": "NODE_ENV=production next build",
+    "start:production": "NODE_ENV=production next start",
+    "pm2:start": "pm2 start ecosystem.config.js",
+    "pm2:stop": "pm2 stop receptionist-agent",
+    "pm2:restart": "pm2 restart receptionist-agent",
+    "pm2:logs": "pm2 logs receptionist-agent"
   },
   "dependencies": {
     "axios": "^1.12.2",
