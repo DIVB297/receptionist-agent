@@ -123,7 +123,7 @@ function SetupGuide() {
           <div className="border-l-4 border-orange-500 pl-4">
             <h3 className="text-lg font-medium text-gray-900 mb-2">4. Bot Configuration in OpenMic Dashboard</h3>
             <p className="text-gray-600 mb-3">
-              Since OpenMic doesn't provide public API endpoints for bot management, you'll need to manually create and configure bots in the OpenMic dashboard. Use the bot details from this UI as a reference:
+              Since OpenMic doesn&apos;t provide public API endpoints for bot management, you&apos;ll need to manually create and configure bots in the OpenMic dashboard. Use the bot details from this UI as a reference:
             </p>
             <ol className="list-decimal list-inside text-gray-600 space-y-1">
               <li>Go to the OpenMic dashboard and create a new agent/bot</li>

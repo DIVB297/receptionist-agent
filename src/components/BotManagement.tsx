@@ -143,7 +143,7 @@ export default function BotManagement() {
             <div className="mt-2 text-sm text-blue-700">
               <p>
                 This UI demonstrates bot management functionality. Bots created here are stored locally for demo purposes. 
-                To use these bots with OpenMic, you'll need to manually configure them in the OpenMic dashboard with the same settings.
+                To use these bots with OpenMic, you&apos;ll need to manually configure them in the OpenMic dashboard with the same settings.
               </p>
             </div>
           </div>

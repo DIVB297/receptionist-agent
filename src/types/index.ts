@@ -75,7 +75,7 @@ export interface FunctionCallRequest {
     employee_name?: string;
   };
   args?: string[];
-  [key: string]: any; // Allow any additional properties
+  [key: string]: unknown; // Allow any additional properties
 }
 
 export interface FunctionCallResponse {

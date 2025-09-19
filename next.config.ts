@@ -24,9 +24,7 @@ const nextConfig: NextConfig = {
     ];
   },
   // Disable the dev origin warning for ngrok
-  experimental: {
-    serverComponentsExternalPackages: ['fs'],
-  },
+  serverExternalPackages: ['fs'],
 };
 
 export default nextConfig;
